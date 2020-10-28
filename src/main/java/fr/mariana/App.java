@@ -4,15 +4,15 @@ package fr.mariana;
  * Hello world!
  */
 public final class App {
-	private App() {
-	}
+    private App() {
+    }
 
-	public static String helloBoysAndGirls() {
-		return ("Hello Joseph");
+    public static String helloBoysAndGirls() {
+        return ("Hello Alex");
 
-	}
+    }
 
-	public static void main(String[] args) {
+    public static void main(String[] args) {
 
-	}
+    }
 }
