@@ -36,4 +36,9 @@ class AppTest {
   void testElodie() {
     assertEquals("Hello Elodie", App.helloBoysAndGirls());
   }
+
+@Test
+  void testfinale() {
+    assertEquals("Hello la promo on est des winners", App.helloBoysAndGirls());
+  }
 }

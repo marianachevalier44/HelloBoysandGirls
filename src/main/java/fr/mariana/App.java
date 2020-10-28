@@ -8,7 +8,7 @@ public final class App {
   private App() {}
 
   public static String helloBoysAndGirls() {
-    return ("Hello Elodie");
+    return ("Hello la promo on est des winners");
   }
 
   public static void main(String[] args) {}
